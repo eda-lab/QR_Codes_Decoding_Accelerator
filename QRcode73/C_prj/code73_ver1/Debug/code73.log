@@ -1,0 +1,12 @@
+﻿  code73_ver1.cpp
+d:\desktop\code73\c_prj\code73\code73_ver1.cpp(37): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\desktop\code73\c_prj\code73\code73_ver1.cpp(53): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(53): note: 请考虑在格式字符串中使用“%lld”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(53): note: 请考虑在格式字符串中使用“%I64d”
+d:\desktop\code73\c_prj\code73\code73_ver1.cpp(54): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(54): note: 请考虑在格式字符串中使用“%lld”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(54): note: 请考虑在格式字符串中使用“%I64d”
+d:\desktop\code73\c_prj\code73\code73_ver1.cpp(55): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(55): note: 请考虑在格式字符串中使用“%lld”
+  d:\desktop\code73\c_prj\code73\code73_ver1.cpp(55): note: 请考虑在格式字符串中使用“%I64d”
+  code73.vcxproj -> D:\Desktop\code73\C_prj\code73\Debug\code73.exe

@@ -1,0 +1,11 @@
+	component fifo1 is
+		port (
+			data  : in  std_logic_vector(73 downto 0) := (others => 'X'); -- datain
+			wrreq : in  std_logic                     := 'X';             -- wrreq
+			rdreq : in  std_logic                     := 'X';             -- rdreq
+			clock : in  std_logic                     := 'X';             -- clk
+			q     : out std_logic_vector(73 downto 0);                    -- dataout
+			usedw : out std_logic_vector(6 downto 0)                      -- usedw
+		);
+	end component fifo1;
+

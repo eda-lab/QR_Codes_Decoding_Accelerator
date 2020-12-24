@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="fifo_181/sim/fifo1_fifo_181_ohbjxzi.v"
+   type="VERILOG"
+   library="fifo_181" />
+ <file
+   path="sim/fifo1.v"
+   type="VERILOG"
+   library="fifo1"
+   hasInlineConfiguration="true" />
+ <topLevel name="fifo1.fifo1" />
+ <deviceFamily name="arria10" />
+</simPackage>
